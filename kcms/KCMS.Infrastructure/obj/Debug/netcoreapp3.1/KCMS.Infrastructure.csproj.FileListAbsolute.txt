@@ -1,0 +1,16 @@
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Infrastructure.deps.json
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Infrastructure.dll
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Infrastructure.pdb
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.dll
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.pdb
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Domain.dll
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Domain.pdb
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.csproj.CopyComplete
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Infrastructure.runtimeconfig.json
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\bin\Debug\netcoreapp3.1\KCMS.Infrastructure.runtimeconfig.dev.json
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Infrastructure\obj\Debug\netcoreapp3.1\KCMS.Infrastructure.genruntimeconfig.cache

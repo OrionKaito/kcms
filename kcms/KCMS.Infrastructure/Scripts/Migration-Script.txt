@@ -1,0 +1,3 @@
+dotnet ef migrations add AddCommentatorToMatch --context KCMSContext --project ..\KCMS.Infrastructure
+dotnet ef migrations script --context KCMSContext --project ..\KCMS.Infrastructure -o ..\KCMS.Infrastructure\Scripts\<NAME>.sql
+dotnet ef migrations script 20211212055746_AddDescriptionForArticle 20220104005043_AddCommentatorToMatch --context KCMSContext --project ..\KCMS.Infrastructure -o ..\KCMS.Infrastructure\Scripts\13_AddCommentatorToMatch.sql

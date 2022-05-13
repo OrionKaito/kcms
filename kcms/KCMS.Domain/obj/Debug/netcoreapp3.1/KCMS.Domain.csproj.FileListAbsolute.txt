@@ -1,0 +1,13 @@
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\bin\Debug\netcoreapp3.1\KCMS.Domain.deps.json
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\bin\Debug\netcoreapp3.1\KCMS.Domain.dll
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\bin\Debug\netcoreapp3.1\KCMS.Domain.pdb
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.AssemblyInfo.cs
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.dll
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.pdb
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\bin\Debug\netcoreapp3.1\KCMS.Domain.runtimeconfig.json
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\bin\Debug\netcoreapp3.1\KCMS.Domain.runtimeconfig.dev.json
+C:\Users\Admins\source\repos\kcms-api\kcms-api\kcms\KCMS.Domain\obj\Debug\netcoreapp3.1\KCMS.Domain.genruntimeconfig.cache
